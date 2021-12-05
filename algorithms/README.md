@@ -13,3 +13,5 @@ https://colab.research.google.com/drive/1G4nx01JO__j_-lnv-BcOz5v6AmQoPsfy?usp=sh
 https://colab.research.google.com/drive/1hSRFo0JBFEugZParO-FCZG8dwpfep6LO?usp=sharing
 3. Decision tree
 https://colab.research.google.com/drive/1nrpA5pWJjUhZ957esmQql5D2VeXVkb8w?usp=sharing
+4. Random Forest
+https://colab.research.google.com/drive/11CDrZ2KBqwnVw6Y7s5eYI-NuXWhCdeEd?usp=sharing
